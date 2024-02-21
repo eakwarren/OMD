@@ -18,7 +18,7 @@ OMD is a large collection of melodic presets for [Divisimate v1.4+](https://www.
 3. Back in the Perform view, select a performance and explore its presets.
 
 
-The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _(LM) V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that.
+The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that.
 
 
 
