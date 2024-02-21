@@ -13,9 +13,12 @@ OMD is a large collection of melodic presets for [Divisimate v1.4+](https://www.
 
 
 ## Setup
-1. Unzip the archive.
+1. In Github, click on each .dpfe file and download the raw file.
 2. In Divisimate, click the Perform view and select Manage Performances. Import both .dpfe files. Then add them to Quickload Menu Slots from All Saved Performances.
-3. In the Perform view, select a performance and explore its presets.
+3. Back in the Perform view, select a performance and explore its presets.
+
+
+The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _(LM) V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that.
 
 
 
@@ -27,13 +30,13 @@ OMD is not endorsed by Paul Humphreys or Andy McCluskey. They're swell chaps non
 ## Special Thanks
 The developers of [Divisimate](https://www.divisimate.com), wherever they may roam.
 
-Peter Lawrence Alexander for his excellent [Professional Orchestration](https://www.alexanderpublishing.com/Departments/Orchestration/Professional-Orchestration-PDF-eBooks.aspx) series of books.
+Peter Lawrence Alexander for his [Professional Orchestration](https://www.alexanderpublishing.com/Departments/Orchestration/Professional-Orchestration-PDF-eBooks.aspx) series of books.
 
 [OMD in 2023.](https://www.nme.com/en_au/news/music/omd-announce-new-album-and-share-single-bauhaus-staircase-listen-preorder-3488277) Image credit: Ed Miles
 
 
 
 ## Release Notes
-v1.0 2/XX/24
+v1.0 2/20/24
 
 • Initial release
