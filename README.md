@@ -14,9 +14,8 @@ OMD is a large collection of melodic presets for [Divisimate v1.4+](https://www.
 
 ## Setup
 1. Unzip the archive.
-2. In Divisimate, click the Perform tab and select Manage Performances. Then import both unzipped .dpfe files.
-3. Add them to Quickload Menu Slots from All Saved Performances.
-4. In the Perform tab, select a performance and explore the presets.
+2. In Divisimate, click the Perform view and select Manage Performances. Import both .dpfe files. Then add them to Quickload Menu Slots from All Saved Performances.
+3. In the Perform view, select a performance and explore its presets.
 
 
 
