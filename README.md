@@ -18,7 +18,7 @@ OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisima
 
 2. In Divisimate, click the Perform view and select Manage Performances. Import the .dpfe files.
    Then add them to Quickload Menu Slots from All Saved Performances.  
-   <img width="300" src="https://github.com/user-attachments/assets/f66702ce-d7ed-49fb-8035-dd5082ab9b96" />
+   <img width="300" src="https://github.com/user-attachments/assets/5e754801-8aa2-472f-8a9e-b2fc0f4f3b68" />
 
 
 
