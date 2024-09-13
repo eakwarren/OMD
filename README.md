@@ -33,10 +33,3 @@ The developers of [Divisimate](https://www.divisimate.com), wherever they may ro
 Peter Lawrence Alexander for his [Professional Orchestration](https://www.alexanderpublishing.com/Departments/Orchestration/Professional-Orchestration-PDF-eBooks.aspx) series of books.
 
 [OMD in 2023.](https://www.nme.com/en_au/news/music/omd-announce-new-album-and-share-single-bauhaus-staircase-listen-preorder-3488277) Image credit: Ed Miles
-
-
-
-## Release Notes
-v1.0 2/20/24
-
-• Initial release
