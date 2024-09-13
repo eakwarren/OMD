@@ -5,14 +5,14 @@
 
 Developed with ❤️ by Eric Warren
 
-Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## About
+# About
 OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisimate.com).
 
 
 
-## Setup
+# Setup
 1. Click on a .dpfe file above and download the raw file in the top-right corner.  
    <img width="171" src="https://github.com/user-attachments/assets/84a631a8-af67-4092-bef4-e8cf76fe2574" />
 
@@ -33,6 +33,15 @@ This performance contains 9 presets (intros, mains and climaxes) and a multipad.
 
 
 [<img src="https://img.youtube.com/vi/1Dqgbpsj4q0/hqdefault.jpg" width="400"/>](https://www.youtube.com/watch?v=1Dqgbpsj4q0)
+
+
+
+## Plugins
+Download and unzip in your Plugins directory. (Macintosh HD/Users/USER/Documents/Nextmidi/Divisimate 2/Plugins or C:\Users\USER\Documents\Nextmidi\Divisimate 2\Plugins)
+* Art Conductor KS.zip - Babylon Waves Art Conductor 10
+* BBCSO KS.zip - Spitfire Audio's BBC Symphony Orchestra Core
+* UACC KS v2.zip - Spitfire Audio's UACC KS standard
+
 
 
 ## Known Issues
