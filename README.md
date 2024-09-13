@@ -13,9 +13,14 @@ OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisima
 
 
 ## Setup
-1. In Github, click on each .dpfe file and download the raw file.
-2. In Divisimate, click the Perform view and select Manage Performances. Import both .dpfe files. Then add them to Quickload Menu Slots from All Saved Performances.
-3. Back in the Perform view, select a performance and explore its presets.
+1. Click on a .dpfe file above and download the raw file in the top-right corner.  
+   <img width="171" src="https://github.com/user-attachments/assets/84a631a8-af67-4092-bef4-e8cf76fe2574" />
+
+2. In Divisimate, click the Perform view and select Manage Performances. Import the .dpfe files.
+   Then add them to Quickload Menu Slots from All Saved Performances.  
+   <img width="300" src="https://github.com/user-attachments/assets/f66702ce-d7ed-49fb-8035-dd5082ab9b96" />
+
+
 
 ## Orchestral Melodies 1 & 2
 A collection of presets organized by range, section and blends commonly found across orchestral repertoire.  
