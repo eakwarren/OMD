@@ -17,7 +17,7 @@ OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisima
 2. In Divisimate, click the Perform view and select Manage Performances. Import both .dpfe files. Then add them to Quickload Menu Slots from All Saved Performances.
 3. Back in the Perform view, select a performance and explore its presets.
 
-## Orchestral Melodies 1 & 1
+## Orchestral Melodies 1 & 2
 A collection of presets organized by range, section and blends commonly found across orchestral repertoire.  
 The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that.
 
