@@ -32,7 +32,7 @@ This performance contains 9 presets (intros, mains and climaxes) and a multipad.
 
 
 
-[<img src="https://img.youtube.com/vi/1Dqgbpsj4q0/hqdefault.jpg" width="400"/>](https://www.youtube.com/watch?v=1Dqgbpsj4q0)
+[<img src="https://img.youtube.com/vi/1Dqgbpsj4q0/maxresdefault.jpg" width="400"/>](https://www.youtube.com/watch?v=1Dqgbpsj4q0)
 
 
 
