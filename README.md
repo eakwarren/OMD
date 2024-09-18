@@ -38,8 +38,10 @@ This performance contains 9 presets (intros, mains and climaxes) and a multipad.
 
 ## Plugins
 Download and unzip in your Plugins directory. (Macintosh HD/Users/USER/Documents/Nextmidi/Divisimate 2/Plugins or C:\Users\USER\Documents\Nextmidi\Divisimate 2\Plugins)
+### Trigger
 * Art Conductor KS.zip - Babylon Waves Art Conductor 10
 * BBCSO KS.zip - Spitfire Audio's BBC Symphony Orchestra Core
+* Synchron Prime Flow KS - VSL Synchron Prime
 * UACC KS v2.zip - Spitfire Audio's UACC KS standard
 
 
