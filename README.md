@@ -41,6 +41,7 @@ Download and unzip in your Plugins directory. (Macintosh HD/Users/USER/Documents
 ### Trigger
 * Art Conductor KS.zip - Babylon Waves Art Conductor 10
 * BBCSO KS.zip - Spitfire Audio's BBC Symphony Orchestra Core
+* CSS KS.zip - Cinematic Studio Series
 * Synchron Prime Flow KS - VSL Synchron Prime
 * UACC KS v2.zip - Spitfire Audio's UACC KS standard
 
