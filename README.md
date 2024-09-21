@@ -8,7 +8,7 @@ Developed with ❤️ by Eric Warren
 Licensed under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # About
-OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisimate.com).
+OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisimate.com). Originally, it was only a collection of @150 melody presets but has since grown to include performance collections and plugin presets. I'd love for this repo to become a collaborative collection of all things Divisimate. If you're interested in contributing, please reach out!
 
 
 
