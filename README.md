@@ -27,7 +27,7 @@ The original collection of 147 melodic presets organized by range, section and b
 The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that. Based on Peter Lawrence Alexander's [Professional Orchestration](https://www.alexanderpublishing.com/Departments/Orchestration/Professional-Orchestration-PDF-eBooks.aspx) series of books.
 
 ## Prison Breakout
-_Steffen Brinkman was wrongly accused of murder. After months of incarceration, it's time to escape!_  
+_Steffen was wrongly accused of murder. After months of incarceration, it's time to escape!_  
 This performance contains 9 presets (intros, mains and climaxes) and a multipad. Demo video below.
 
 
