@@ -22,6 +22,9 @@ OMD is a large collection of presets for [Divisimate v1.4+](https://www.divisima
 
 
 
+## Blank Orchestra (all ch)
+A Divisimate 2 template based on Nextmidi's Synchron Prime Core, Voicings and Inspiration performances. All 16 channels in each port are available with a proposed standard for additional sample libraries beyond Prime on subsequent channels. Currently those are BBC Symphony Orchestra, Cinematic Studio Series and Spitfire Symphonic Orchestra.
+
 ## Orchestral Melodies 1 & 2
 The original collection of 147 melodic presets organized by range, section and blends commonly found across orchestral repertoire.  
 The name prefix describes a preset's range. (LH) is Low to High, (LM) is Low to Medium, etc. Between instrument names, a + means in unison and - means in octaves. For example, _V1 + V2 - Vla + Vcl - DB_ means Violins 1 and 2 in unison, with Violas and Celli in unison an octave below and Double Bass an octave below that. Based on Peter Lawrence Alexander's [Professional Orchestration](https://www.alexanderpublishing.com/Departments/Orchestration/Professional-Orchestration-PDF-eBooks.aspx) series of books.
