@@ -37,6 +37,14 @@ This performance contains 9 presets (intros, mains and climaxes) and a multipad.
 
 [<img src="https://img.youtube.com/vi/1Dqgbpsj4q0/maxresdefault.jpg" width="400"/>](https://www.youtube.com/watch?v=1Dqgbpsj4q0)
 
+## The Matrix Inspiration
+_Wake up Neo. The Matrix has you!_  
+This performance contains 7 presets and a multipad inspired by the opening titles of the classic sci-fi film The Matrix. Play E0 on your keyboard to get Trinity going with arps in DM Expert mode or play the iconic brass cords.
+
+Designed for Spitfire Symphony Orchestra 2024.
+
+
+![The Matrix](https://github.com/user-attachments/assets/de9f130a-ed41-4716-b42c-569b01e13ef0)
 
 
 ## Plugins
